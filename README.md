@@ -1,6 +1,6 @@
 # atala
 
-A new Flutter project.
+A decentralised identity solution.
 
 ## Getting Started
 
