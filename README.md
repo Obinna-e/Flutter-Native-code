@@ -1,6 +1,6 @@
 # atala
 
-A decentralised identity solution.
+Just a test for running kotlin code in Flutter applications
 
 ## Getting Started
 
